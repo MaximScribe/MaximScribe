@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Maxim. I do C++ and Python mainly, trying to get into WebDev with HTML and CSS.
+
 <!--
 **MaximScribe/MaximScribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
